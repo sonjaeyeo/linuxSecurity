@@ -1,0 +1,11 @@
+
+Room Number 3410 network setting project
+
+par1 
+- OSI 1-4 Lauer
+-device: switch, router
+
+
+part2
+- OSI 5-7 Layer
+-Application: app, network program
