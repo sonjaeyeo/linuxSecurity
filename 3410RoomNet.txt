@@ -5,6 +5,10 @@ par1
 - OSI 1-4 Lauer
 -device: switch, router
 
+2023.11.30.
+Swith Model select
+-cisco, Hp, Sun.. ect
+-
 
 part2
 - OSI 5-7 Layer
