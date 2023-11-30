@@ -8,7 +8,11 @@ par1
 2023.11.30.
 Swith Model select
 -cisco, Hp, Sun.. ect
--
+-price: 100000 dolla
+
+Router Model select
+-L3 switch
+-Router
 
 part2
 - OSI 5-7 Layer
